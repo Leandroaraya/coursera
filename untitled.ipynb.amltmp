@@ -1,0 +1,59 @@
+{
+  "cells": [
+    {
+      "cell_type": "code",
+      "source": [
+        "conda create --name new_ml_env\n",
+        "conda activate new_ml_env"
+      ],
+      "outputs": [
+        {
+          "output_type": "error",
+          "ename": "SyntaxError",
+          "evalue": "invalid syntax (4203527202.py, line 1)",
+          "traceback": [
+            "\u001b[0;36m  Cell \u001b[0;32mIn[2], line 1\u001b[0;36m\u001b[0m\n\u001b[0;31m    conda create --name new_ml_env\u001b[0m\n\u001b[0m          ^\u001b[0m\n\u001b[0;31mSyntaxError\u001b[0m\u001b[0;31m:\u001b[0m invalid syntax\n"
+          ]
+        }
+      ],
+      "execution_count": 2,
+      "metadata": {
+        "gather": {
+          "logged": 1759095387896
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "kernelspec": {
+      "name": "python38-azureml",
+      "language": "python",
+      "display_name": "Python 3.10 - AzureML"
+    },
+    "language_info": {
+      "name": "python",
+      "version": "3.10.11",
+      "mimetype": "text/x-python",
+      "codemirror_mode": {
+        "name": "ipython",
+        "version": 3
+      },
+      "pygments_lexer": "ipython3",
+      "nbconvert_exporter": "python",
+      "file_extension": ".py"
+    },
+    "microsoft": {
+      "ms_spell_check": {
+        "ms_spell_check_language": "es"
+      }
+    },
+    "kernel_info": {
+      "name": "python38-azureml"
+    },
+    "nteract": {
+      "version": "nteract-front-end@1.0.0"
+    }
+  },
+  "nbformat": 4,
+  "nbformat_minor": 2
+}
